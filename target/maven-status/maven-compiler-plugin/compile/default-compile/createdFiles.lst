@@ -1,0 +1,8 @@
+goeuro\util\Util.class
+goeuro\GoEuro.class
+goeuro\exception\NoCityInfoException.class
+goeuro\util\GoConstants.class
+goeuro\file\CSVFileWriter.class
+goeuro\file\IFileWriter.class
+goeuro\util\GoJSONParser.class
+goeuro\http\HTTPExecutor.class
