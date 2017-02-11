@@ -1,0 +1,11 @@
+insgesamt 58
+drwxrwxr-x+ 1 dkedacic Kein     0 11. Feb 15:12 .
+drwxrwxr-x+ 1 dkedacic Kein     0 11. Feb 15:11 ..
+drwxrwxr-x+ 1 dkedacic Kein     0 11. Feb 15:11 .git
+-rw-rw-r--+ 1 dkedacic Kein 39368 11. Feb 15:11 .pmd
+-rw-rw-r--+ 1 dkedacic Kein   288 11. Feb 15:11 Berlin.csv
+-rw-rw-r--+ 1 dkedacic Kein  2243 11. Feb 15:11 pom.xml
+-rw-rw-r--+ 1 dkedacic Kein   418 11. Feb 15:11 Sao Paolo.csv
+drwxrwxr-x+ 1 dkedacic Kein     0 11. Feb 15:11 src
+drwxrwxr-x+ 1 dkedacic Kein     0 11. Feb 15:11 target
+-rw-rw-r--+ 1 dkedacic Kein     0 11. Feb 15:12 test.txt
